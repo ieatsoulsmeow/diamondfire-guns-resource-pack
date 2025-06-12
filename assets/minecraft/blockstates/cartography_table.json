@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/decoration/cartography_table/ct1"},
+      {"model": "minecraft:block/decoration/cartography_table/ct2"},
+      {"model": "minecraft:block/decoration/cartography_table/ct3"},
+      {"model": "minecraft:block/decoration/cartography_table/ct4"}
+    ]
+  }
+}

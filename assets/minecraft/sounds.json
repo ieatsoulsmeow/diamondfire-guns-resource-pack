@@ -1,0 +1,17 @@
+{
+  "guns.pistol.cock": {
+  "subtitle": "subtitles.minecraft.guns.pistol.cock",
+  "sounds": [
+    "guns/pistol/cock"
+  ]},
+  "guns.pistol.fire": {
+  "subtitle": "subtitles.minecraft.guns.pistol.fire",
+  "sounds": [
+    "guns/pistol/fire"
+  ]},
+  "guns.pistol.reload": {
+  "subtitle": "subtitles.minecraft.guns.pistol.reload",
+  "sounds": [
+    "guns/pistol/reload"
+  ]}
+}

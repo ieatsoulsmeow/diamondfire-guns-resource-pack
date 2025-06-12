@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/coarse_dirt",
+    "east": "minecraft:block/decoration/cjd/clay_join_dirt2",
+    "north": "minecraft:block/decoration/cjd/clay_join_dirt2",
+    "particle": "minecraft:block/decoration/cjd/clay_join_dirt2",
+    "south": "minecraft:block/decoration/cjd/clay_join_dirt2",
+    "up": "minecraft:block/clay",
+    "west": "minecraft:block/decoration/cjd/clay_join_dirt2"
+  }
+}
